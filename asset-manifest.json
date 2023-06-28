@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cost_accounting/static/css/main.483a163a.css",
+    "main.js": "/cost_accounting/static/js/main.053fb7e9.js",
+    "index.html": "/cost_accounting/index.html",
+    "main.483a163a.css.map": "/cost_accounting/static/css/main.483a163a.css.map",
+    "main.053fb7e9.js.map": "/cost_accounting/static/js/main.053fb7e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483a163a.css",
+    "static/js/main.053fb7e9.js"
+  ]
+}
